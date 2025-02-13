@@ -1,27 +1,27 @@
 # Curso de Python - Curso em Vídeo
 
-Resolução dos exercícios de Python do Curso em Vídeo, lecionado professor pelo Gustavo Guanabara.
+Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo professor Gustavo Guanabara.
 
 ## Mundo 01: Fundamentos
 
 ### Primeiros Comandos
 
-* Exercício #001: Deixando tudo pronto
-* Exercício #002: Respondendo ao usuário
+* [Exercício #001: Deixando tudo pronto](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex001.py)
+* [Exercício #002: Respondendo ao usuário](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex002.py)
 
 ### Tipos Primitivos e Saída de Dados
 
-* Exercício #003: Somando dois números
-* Exercício #004: Dissecando uma variável
+* [Exercício #003: Somando dois números](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex003.py)
+* [Exercício #004: Dissecando uma variável](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex004.py)
 
 ### Operadores Aritméticos
 
-* Exercício #005: Antecessor e Sucessor
-* Exercício #006: Dobro, Triplo, Raiz Quadrada
-* Exercício #007: Média Aritmética
-* Exercício #008: Conversor de Medidas
-* Exercício #009: Tabuada
-* Exercício #010: Conversor de Moedas
+* [Exercício #005: Antecessor e Sucessor](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex005.py)
+* [Exercício #006: Dobro, Triplo, Raiz Quadrada](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex006.py)
+* [Exercício #007: Média Aritmética](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex007.py)
+* [Exercício #008: Conversor de Medidas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex008.py)
+* [Exercício #009: Tabuada](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex009.py)
+* [Exercício #010: Conversor de Moedas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex010.py)
 * Exercício #011: Pintando Parede
 * Exercício #012: Calculando Descontos
 * Exercício #013: Reajuste Salarial
