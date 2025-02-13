@@ -22,20 +22,20 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #008: Conversor de Medidas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex008.py)
 * [Exercício #009: Tabuada](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex009.py)
 * [Exercício #010: Conversor de Moedas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex010.py)
-* Exercício #011: Pintando Parede
-* Exercício #012: Calculando Descontos
-* Exercício #013: Reajuste Salarial
-* Exercício #014: Conversor de Temperaturas
-* Exercício #015: Aluguel de Carros
+* [Exercício #011: Pintando Parede](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex011.py)
+* [Exercício #012: Calculando Descontos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex012.py)
+* [Exercício #013: Reajuste Salarial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex013.py)
+* [Exercício #014: Conversor de Temperaturas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex014.py)
+* [Exercício #015: Aluguel de Carros](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex015.py)
 
 ### Utilizando Módulos
 
-* Exercício #016: Quebrando um número
-* Exercício #017: Catetos e Hipotenusa
-* Exercício #018: Seno, Cosseno e Tangente
-* Exercício #019: Sorteando um item na lista
-* Exercício #020: Sorteando uma ordem na lista
-* Exercício #021: Tocando um MP3
+* [Exercício #016: Quebrando um número](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex016.py)
+* [Exercício #017: Catetos e Hipotenusa](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex017.py)
+* [Exercício #018: Seno, Cosseno e Tangente](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex018.py)
+* [Exercício #019: Sorteando um item na lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex019.py)
+* [Exercício #020: Sorteando uma ordem na lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex020.py)
+* [Exercício #021: Tocando um MP3]()
 
 ### Manipulação de Texto
 
