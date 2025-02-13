@@ -35,29 +35,28 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #018: Seno, Cosseno e Tangente](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex018.py)
 * [Exercício #019: Sorteando um item na lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex019.py)
 * [Exercício #020: Sorteando uma ordem na lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex020.py)
-* [Exercício #021: Tocando um MP3]()
+* [Exercício #021: Tocando um MP3](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex021.py)
 
 ### Manipulação de Texto
 
-* Exercício #022: Analisador de Textos
-* Exercício #023: Separando Dígitos de um Número
-* Exercício #024: Verificando as Primeiras Letras de um Texto
-* Exercício #025: Procurando uma String Dentro da Outra
-* Exercício #026: Primeira e Última Ocorrência de uma String
-* Exercício #027: Primeiro e Último Nome de uma Pessoa
+* [Exercício #022: Analisador de Textos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex022.py)
+* [Exercício #023: Separando Dígitos de um Número](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex023.py)
+* [Exercício #024: Verificando as Primeiras Letras de um Texto](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex024.py)
+* [Exercício #025: Procurando uma String Dentro da Outra](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex025.py)
+* [Exercício #026: Primeira e Última Ocorrência de uma String](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex026.py)
+* [Exercício #027: Primeiro e Último Nome de uma Pessoa](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex027.py)
 
 ### Condicionais
 
-* Exercício #028: Jogo da Advinhação
-* Exercício #029: Radar Eletrônico
-* Exercício #030: Par ou Ímpar
+* [Exercício #028: Jogo da Advinhação](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex028.py)
+* [Exercício #029: Radar Eletrônico](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex029.py)
+* [Exercício #030: Par ou Ímpar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex030.py)
+* [Exercício #031: Custo da Viagem](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex031.py)
+* [Exercício #032: Ano Bissexto](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex032.py)
+* [Exercício #033: Maior e Menor Valores](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex033.py)
+* [Exercício #034: Aumentos Múltiplos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex034.py)
+* [Exercício #035: Analisando Triângulos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_1/ex035.py)
 
 ## Mundo 02: Estruturas de Controle
-
-* Exercício #031: Custo da Viagem
-* Exercício #032: Ano Bissexto
-* Exercício #033: Maior e Menor Valores
-* Exercício #034: Aumentos Múltiplos
-* Exercício #035: Analisando Triângulos
 
 ## Mundo 03: Estruturas Compostas
