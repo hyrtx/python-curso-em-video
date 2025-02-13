@@ -59,4 +59,23 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ## Mundo 02: Estruturas de Controle
 
+### Condições Aninhadas
+
+* [Exercício #036: Aprovando Empréstimo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex036.py)
+* [Exercício #037: Conversor de Bases Numéricas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex037.py)
+* Exercício #038: Comparando Números
+* Exercício #039: Alistamento Militar
+* Exercício #040: Aquele Clássico da Média
+* Exercício #041: Classificando Atletas
+* Exercício #042: Analisando Triângulos v2
+* Exercício #043: Índice de Massa Corporal
+* Exercício #044: Gerenciador de Pagamentos
+* Exercício #045: Pedra, Papel e Tesoura
+
+### Estrutura de Repetição For
+
+### Estrutura de Repetição While
+
+### Interrompendo Repetições While
+
 ## Mundo 03: Estruturas Compostas
