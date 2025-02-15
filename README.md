@@ -63,19 +63,48 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 * [Exercício #036: Aprovando Empréstimo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex036.py)
 * [Exercício #037: Conversor de Bases Numéricas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex037.py)
-* Exercício #038: Comparando Números
-* Exercício #039: Alistamento Militar
-* Exercício #040: Aquele Clássico da Média
-* Exercício #041: Classificando Atletas
-* Exercício #042: Analisando Triângulos v2
-* Exercício #043: Índice de Massa Corporal
-* Exercício #044: Gerenciador de Pagamentos
-* Exercício #045: Pedra, Papel e Tesoura
+* [Exercício #038: Comparando Números](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex038.py)
+* [Exercício #039: Alistamento Militar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex039.py)
+* [Exercício #040: Aquele Clássico da Média](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex040.py)
+* [Exercício #041: Classificando Atletas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex041.py)
+* [Exercício #042: Analisando Triângulos v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex042.py)
+* [Exercício #043: Índice de Massa Corporal](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex043.py)
+* [Exercício #044: Gerenciador de Pagamentos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex044.py)
+* [Exercício #045: Pedra, Papel e Tesoura](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex045.py)
 
 ### Estrutura de Repetição For
 
+* Exercício #046: Contagem Regressiva
+* Exercício #047: Contagem de Pares
+* Exercício #048: Soma Ímpares Múltiplos de Três
+* Exercício #049: Tabuada v2
+* Exercício #050: Soma dos Pares
+* Exercício #051: Progressão Aritmética
+* Exercício #052: Números Primos
+* Exercício #053: Detector de Palíndromo
+* Exercício #054: Grupo da Maioridade
+* Exercício #055: Maior e Menor da Sequência
+* Exercício #056: Analisador Completo
+
 ### Estrutura de Repetição While
 
+* Exercício #057: Validação de Dados
+* Exercício #058: Jogo da Adivinhação v2
+* Exercício #059: Criando um Menu de Opções
+* Exercício #060: Calculo do Fatorial
+* Exercício #061: Progressão Aritmética v2
+* Exercício #062: Super Progressão Aritmética
+* Exercício #063: Sequência de Fibonacci
+* Exercício #064: Tratando Vários Fatores
+* Exercício #065: Maior e Menor Valores
+
 ### Interrompendo Repetições While
+
+* Exercício #066: Vários Números com Flag
+* Exercício #067: Tabuada v3
+* Exercício #068: Jogo do Par ou Ímpar
+* Exercício #069: Análise de Dados do Grupo
+* Exercício #070: Estatísticas em Produtos
+* Exercício #071: Simulador de Caixa Eletrônico
 
 ## Mundo 03: Estruturas Compostas
