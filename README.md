@@ -74,12 +74,12 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Estrutura de Repetição For
 
-* Exercício #046: Contagem Regressiva
-* Exercício #047: Contagem de Pares
-* Exercício #048: Soma Ímpares Múltiplos de Três
-* Exercício #049: Tabuada v2
-* Exercício #050: Soma dos Pares
-* Exercício #051: Progressão Aritmética
+* [Exercício #046: Contagem Regressiva](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex046.py)
+* [Exercício #047: Contagem de Pares](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex047.py)
+* [Exercício #048: Soma Ímpares Múltiplos de Três](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex048.py)
+* [Exercício #049: Tabuada v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex049.py)
+* [Exercício #050: Soma dos Pares](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex050.py)
+* [Exercício #051: Progressão Aritmética](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex051.py)
 * Exercício #052: Números Primos
 * Exercício #053: Detector de Palíndromo
 * Exercício #054: Grupo da Maioridade
