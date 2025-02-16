@@ -80,17 +80,17 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #049: Tabuada v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex049.py)
 * [Exercício #050: Soma dos Pares](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex050.py)
 * [Exercício #051: Progressão Aritmética](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex051.py)
-* Exercício #052: Números Primos
-* Exercício #053: Detector de Palíndromo
-* Exercício #054: Grupo da Maioridade
-* Exercício #055: Maior e Menor da Sequência
-* Exercício #056: Analisador Completo
+* [Exercício #052: Números Primos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex052.py)
+* [Exercício #053: Detector de Palíndromo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex053.py)
+* [Exercício #054: Grupo da Maioridade](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex054.py)
+* [Exercício #055: Maior e Menor da Sequência](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex055.py)
+* [Exercício #056: Analisador Completo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex056.py)
 
 ### Estrutura de Repetição While
 
-* Exercício #057: Validação de Dados
-* Exercício #058: Jogo da Adivinhação v2
-* Exercício #059: Criando um Menu de Opções
+* [Exercício #057: Validação de Dados](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex057.py)
+* [Exercício #058: Jogo da Adivinhação v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex058.py)
+* [Exercício #059: Criando um Menu de Opções](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex059.py)
 * Exercício #060: Calculo do Fatorial
 * Exercício #061: Progressão Aritmética v2
 * Exercício #062: Super Progressão Aritmética
