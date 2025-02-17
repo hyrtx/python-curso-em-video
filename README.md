@@ -91,9 +91,9 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #057: Validação de Dados](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex057.py)
 * [Exercício #058: Jogo da Adivinhação v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex058.py)
 * [Exercício #059: Criando um Menu de Opções](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex059.py)
-* Exercício #060: Calculo do Fatorial
-* Exercício #061: Progressão Aritmética v2
-* Exercício #062: Super Progressão Aritmética
+* [Exercício #060: Calculo do Fatorial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex060.py)
+* [Exercício #061: Progressão Aritmética v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex061.py)
+* [Exercício #062: Super Progressão Aritmética](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex062.py)
 * Exercício #063: Sequência de Fibonacci
 * Exercício #064: Tratando Vários Fatores
 * Exercício #065: Maior e Menor Valores
