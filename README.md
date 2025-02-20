@@ -94,17 +94,17 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #060: Calculo do Fatorial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex060.py)
 * [Exercício #061: Progressão Aritmética v2](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex061.py)
 * [Exercício #062: Super Progressão Aritmética](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex062.py)
-* Exercício #063: Sequência de Fibonacci
-* Exercício #064: Tratando Vários Fatores
-* Exercício #065: Maior e Menor Valores
+* [Exercício #063: Sequência de Fibonacci](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex063.py)
+* [Exercício #064: Tratando Vários Fatores](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex064.py)
+* [Exercício #065: Maior e Menor Valores](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex065.py)
 
 ### Interrompendo Repetições While
 
-* Exercício #066: Vários Números com Flag
-* Exercício #067: Tabuada v3
-* Exercício #068: Jogo do Par ou Ímpar
-* Exercício #069: Análise de Dados do Grupo
-* Exercício #070: Estatísticas em Produtos
+* [Exercício #066: Vários Números com Flag](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex066.py)
+* [Exercício #067: Tabuada v3](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex067.py)
+* [Exercício #068: Jogo do Par ou Ímpar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex068.py)
+* [Exercício #069: Análise de Dados do Grupo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex069.py)
+* [Exercício #070: Estatísticas em Produtos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex070.py)
 * Exercício #071: Simulador de Caixa Eletrônico
 
 ## Mundo 03: Estruturas Compostas
