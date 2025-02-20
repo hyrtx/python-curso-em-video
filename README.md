@@ -108,3 +108,70 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #071: Simulador de Caixa Eletrônico](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex071.py)
 
 ## Mundo 03: Estruturas Compostas
+
+### Tuplas
+
+* Exercício #072: Número por Extenso
+* Exercício #073: Tuplas com Times de Futebol
+* Exercício #074: Maior e Menor Valores em Tupla
+* Exercício #075: Análise de Dados em Tupla
+* Exercício #076: Lista de Preços com Tupla
+* Exercício #077: Contando Vogais em Tupla
+
+### Listas
+
+* Exercício #078: Maior e Menor Valores na Lista
+* Exercício #079: Valores Únicos em uma Lista
+* Exercício #080: Lista Ordenada sem Repetições
+* Exercício #081: Extraindo Dados de uma Lista
+* Exercício #082: Dividindo Valores em Várias Listas
+* Exercício #083: Validando Expressões Numéricas
+* Exercício #084: Lista Composta e Análise de Dados
+* Exercício #085: Listas com Pares e Ímpares
+* Exercício #086: Matriz em Python
+* Exercício #087: Mais Sobre Matriz em Python
+* Exercício #088: Palpites para a Mega Sena
+* Exercício #089: Boletim com Listas Compostas
+
+### Dicionários
+
+* Exercício #090: Dicionário em Python
+* Exercício #091: Jogo de Dados em Python
+* Exercício #092: Cadastro de Trabalhador em Python
+* Exercício #093: Cadastro de Jogador de Futebol
+* Exercício #094: Unindo Dicionários e Listas
+* Exercício #095: Aprimorando os Dicionários
+
+### Funções
+
+* Exercício #096: Função que Calcula Área
+* Exercício #097: Um Print Especial
+* Exercício #098: Função de Contador
+* Exercício #099: Função que Descobre o Maior
+* Exercício #100: Funções para Sortear e Somar
+* Exercício #101: Funções para Votação
+* Exercício #102: Função para Fatorial
+* Exercício #103: Ficha do Jogador
+* Exercício #104: Validando Entrada de Dados em Python
+* Exercício #105: Analisando e Gerando Dicionários
+* Exercício #106: Sistema Interativo de Ajuda em Python
+
+### Módulos e Pacotes
+
+* Exercício #107: Exercitando Módulos em Python
+* Exercício #108: Formatando Moedas em Python
+* Exercício #109: Formatando Moedas em Python
+* Exercício #110: Reduzindo Ainda Mais seu Programa
+* Exercício #111: Transformando Módulos em Pacotes
+* Exercício #112: Entrada de Dados Monetários
+
+### Tratamento de Erros e Excessões
+
+* Exercício #113: Funções Aprofundadas em Python
+* Exercício #114: Site Está Acessível?
+
+## Projeto Final
+
+* Exercício #115a: Criando um Menu com Python
+* Exercício #115b: Arquivos com Python
+* Exercício #115c: Finalizando o Projeto
