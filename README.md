@@ -111,8 +111,8 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Tuplas
 
-* Exercício #072: Número por Extenso
-* Exercício #073: Tuplas com Times de Futebol
+* [Exercício #072: Número por Extenso](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex072.py)
+* [Exercício #073: Tuplas com Times de Futebol](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex073.py)
 * Exercício #074: Maior e Menor Valores em Tupla
 * Exercício #075: Análise de Dados em Tupla
 * Exercício #076: Lista de Preços com Tupla
