@@ -105,6 +105,6 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #068: Jogo do Par ou Ímpar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex068.py)
 * [Exercício #069: Análise de Dados do Grupo](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex069.py)
 * [Exercício #070: Estatísticas em Produtos](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex070.py)
-* Exercício #071: Simulador de Caixa Eletrônico
+* [Exercício #071: Simulador de Caixa Eletrônico](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_2/ex071.py)
 
 ## Mundo 03: Estruturas Compostas
