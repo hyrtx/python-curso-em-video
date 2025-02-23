@@ -120,9 +120,9 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Listas
 
-* Exercício #078: Maior e Menor Valores na Lista
-* Exercício #079: Valores Únicos em uma Lista
-* Exercício #080: Lista Ordenada sem Repetições
+* [Exercício #078: Maior e Menor Valores na Lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex078.py)
+* [Exercício #079: Valores Únicos em uma Lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex079.py)
+* [Exercício #080: Lista Ordenada sem Repetições](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex080.py)
 * Exercício #081: Extraindo Dados de uma Lista
 * Exercício #082: Dividindo Valores em Várias Listas
 * Exercício #083: Validando Expressões Numéricas
