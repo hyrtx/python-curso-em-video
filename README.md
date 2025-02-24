@@ -123,10 +123,10 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #078: Maior e Menor Valores na Lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex078.py)
 * [Exercício #079: Valores Únicos em uma Lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex079.py)
 * [Exercício #080: Lista Ordenada sem Repetições](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex080.py)
-* Exercício #081: Extraindo Dados de uma Lista
-* Exercício #082: Dividindo Valores em Várias Listas
-* Exercício #083: Validando Expressões Numéricas
-* Exercício #084: Lista Composta e Análise de Dados
+* [Exercício #081: Extraindo Dados de uma Lista](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex081.py)
+* [Exercício #082: Dividindo Valores em Várias Listas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex082.py)
+* [Exercício #083: Validando Expressões Numéricas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex083.py)
+* [Exercício #084: Lista Composta e Análise de Dados](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex084.py)
 * Exercício #085: Listas com Pares e Ímpares
 * Exercício #086: Matriz em Python
 * Exercício #087: Mais Sobre Matriz em Python
