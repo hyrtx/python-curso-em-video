@@ -127,15 +127,15 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #082: Dividindo Valores em Várias Listas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex082.py)
 * [Exercício #083: Validando Expressões Numéricas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex083.py)
 * [Exercício #084: Lista Composta e Análise de Dados](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex084.py)
-* Exercício #085: Listas com Pares e Ímpares
-* Exercício #086: Matriz em Python
-* Exercício #087: Mais Sobre Matriz em Python
-* Exercício #088: Palpites para a Mega Sena
-* Exercício #089: Boletim com Listas Compostas
+* [Exercício #085: Listas com Pares e Ímpares](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex085.py)
+* [Exercício #086: Matriz em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex086.py)
+* [Exercício #087: Mais Sobre Matriz em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex087.py)
+* [Exercício #088: Palpites para a Mega Sena](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex088.py)
+* [Exercício #089: Boletim com Listas Compostas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex089.py)
 
 ### Dicionários
 
-* Exercício #090: Dicionário em Python
+* [Exercício #090: Dicionário em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex090.py)
 * Exercício #091: Jogo de Dados em Python
 * Exercício #092: Cadastro de Trabalhador em Python
 * Exercício #093: Cadastro de Jogador de Futebol
