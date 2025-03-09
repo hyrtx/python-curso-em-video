@@ -136,7 +136,7 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 ### Dicionários
 
 * [Exercício #090: Dicionário em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex090.py)
-* Exercício #091: Jogo de Dados em Python
+* [Exercício #091: Jogo de Dados em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex091.py)
 * Exercício #092: Cadastro de Trabalhador em Python
 * Exercício #093: Cadastro de Jogador de Futebol
 * Exercício #094: Unindo Dicionários e Listas
