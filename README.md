@@ -139,8 +139,8 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #091: Jogo de Dados em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex091.py)
 * [Exercício #092: Cadastro de Trabalhador em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex092.py)
 * [Exercício #093: Cadastro de Jogador de Futebol](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex093.py)
-* Exercício #094: Unindo Dicionários e Listas
-* Exercício #095: Aprimorando os Dicionários
+* [Exercício #094: Unindo Dicionários e Listas](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex094.py)
+* [Exercício #095: Aprimorando os Dicionários](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex095.py)
 
 ### Funções
 
