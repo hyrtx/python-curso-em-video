@@ -4,7 +4,7 @@ de visualização de detalhes do aproveitamento de cada jogador.
 '''
 
 # Funções
-def continua_programa():
+def continua_programa() -> str:
   while True:
     flag_continua = input("Quer continuar? [S/N] ").strip().upper()[0]
 
@@ -13,7 +13,7 @@ def continua_programa():
     else:
       print("ERRO! Escolha 'S' para sim ou 'N' para não.")
 
-def mostrar_dados_jogador():
+def mostrar_dados_jogador() -> int:
   while True:
     try:
       flag_mostrar_dado_jogador = int(input("Mostrar dado de qual jogador? [Digite ID, 999 para parar] "))

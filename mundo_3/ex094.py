@@ -29,7 +29,7 @@ def validar_idade() -> int:
     except ValueError:
       print("ERRO! Digite um valor numérico.")
 
-def continua_programa():
+def continua_programa() -> str:
   while True:
     flag_continua = input("Quer continuar? [S/N] ").strip().upper()[0]
 
