@@ -144,11 +144,11 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Funções
 
-* Exercício #096: Função que Calcula Área
-* Exercício #097: Um Print Especial
-* Exercício #098: Função de Contador
-* Exercício #099: Função que Descobre o Maior
-* Exercício #100: Funções para Sortear e Somar
+* [Exercício #096: Função que Calcula Área](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex096.py)
+* [Exercício #097: Um Print Especial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex097.py)
+* [Exercício #098: Função de Contador](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex098.py)
+* [Exercício #099: Função que Descobre o Maior](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex099.py)
+* [Exercício #100: Funções para Sortear e Somar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex100.py)
 * Exercício #101: Funções para Votação
 * Exercício #102: Função para Fatorial
 * Exercício #103: Ficha do Jogador
