@@ -149,8 +149,8 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #098: Função de Contador](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex098.py)
 * [Exercício #099: Função que Descobre o Maior](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex099.py)
 * [Exercício #100: Funções para Sortear e Somar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex100.py)
-* Exercício #101: Funções para Votação
-* Exercício #102: Função para Fatorial
+* [Exercício #101: Funções para Votação](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex101.py)
+* [Exercício #102: Função para Fatorial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex102.py)
 * Exercício #103: Ficha do Jogador
 * Exercício #104: Validando Entrada de Dados em Python
 * Exercício #105: Analisando e Gerando Dicionários
