@@ -151,10 +151,10 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #100: Funções para Sortear e Somar](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex100.py)
 * [Exercício #101: Funções para Votação](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex101.py)
 * [Exercício #102: Função para Fatorial](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex102.py)
-* Exercício #103: Ficha do Jogador
-* Exercício #104: Validando Entrada de Dados em Python
-* Exercício #105: Analisando e Gerando Dicionários
-* Exercício #106: Sistema Interativo de Ajuda em Python
+* [Exercício #103: Ficha do Jogador](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex103.py)
+* [Exercício #104: Validando Entrada de Dados em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex104.py)
+* [Exercício #105: Analisando e Gerando Dicionários](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex105.py)
+* [Exercício #106: Sistema Interativo de Ajuda em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex106.py)
 
 ### Módulos e Pacotes
 
