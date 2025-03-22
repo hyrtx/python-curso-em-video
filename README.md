@@ -172,6 +172,4 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ## Projeto Final
 
-* Exercício #115a: Criando um Menu com Python
-* Exercício #115b: Arquivos com Python
-* Exercício #115c: Finalizando o Projeto
+* Exercício #115: Criando um Menu com Python
