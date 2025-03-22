@@ -158,7 +158,7 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Módulos e Pacotes
 
-* Exercício #107: Exercitando Módulos em Python
+* [Exercício #107: Exercitando Módulos em Python](https://github.com/hyrtx/python-curso-em-video/tree/main/mundo_3/ex107)
 * Exercício #108: Formatando Moedas em Python
 * Exercício #109: Formatando Moedas em Python
 * Exercício #110: Reduzindo Ainda Mais seu Programa
