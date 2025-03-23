@@ -163,7 +163,7 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 * [Exercício #109: Formatando Moedas em Python](https://github.com/hyrtx/python-curso-em-video/tree/main/mundo_3/ex109)
 * [Exercício #110: Reduzindo Ainda Mais seu Programa](https://github.com/hyrtx/python-curso-em-video/tree/main/mundo_3/ex110)
 * [Exercício #111: Transformando Módulos em Pacotes](https://github.com/hyrtx/python-curso-em-video/tree/main/mundo_3/ex111)
-* Exercício #112: Entrada de Dados Monetários
+* [Exercício #112: Entrada de Dados Monetários](https://github.com/hyrtx/python-curso-em-video/tree/main/mundo_3/ex112)
 
 ### Tratamento de Erros e Excessões
 
