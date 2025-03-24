@@ -167,8 +167,8 @@ Resolução dos exercícios de Python do Curso em Vídeo, lecionado pelo profess
 
 ### Tratamento de Erros e Excessões
 
-* Exercício #113: Funções Aprofundadas em Python
-* Exercício #114: Site Está Acessível?
+* [Exercício #113: Funções Aprofundadas em Python](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex113.py)
+* [Exercício #114: Site Está Acessível?](https://github.com/hyrtx/python-curso-em-video/blob/main/mundo_3/ex114.py)
 
 ## Projeto Final
 
